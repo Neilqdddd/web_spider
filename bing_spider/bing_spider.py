@@ -34,6 +34,9 @@ def getPICInfo(url):
 
 
 def down_img(url, path):
+    '''
+    download image from bing.com
+    '''
     bin_url = 'https://www.bing.com'
     img_info = getPICInfo(url)
     img_url = bin_url + img_info[0]
