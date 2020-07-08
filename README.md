@@ -4,4 +4,7 @@
 * qiubai_spider
 
     糗百爬虫
+* bing_spider
+
+    bing 壁纸爬虫最多爬取最近7天的壁纸
    
