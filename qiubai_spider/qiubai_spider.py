@@ -62,7 +62,6 @@ def save_file(lst):
             comment = i[3]
             content = i[4]
             f.write(output.format(page, author, laugh, comment, content))
-    f.close()
 
 
 def main():

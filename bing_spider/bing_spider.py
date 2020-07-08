@@ -52,7 +52,6 @@ def down_img(url, path):
             content = getHTML(img_url).content
             with open(file, 'wb') as f:
                 f.write(content)
-                f.close()
                 print('load success')
         else:
             print('file exist')
