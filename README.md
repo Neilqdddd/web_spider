@@ -7,4 +7,8 @@
 * bing_spider
 
     bing 壁纸爬虫最多爬取最近7天的壁纸
+    
+* stock_spider
+    
+    v1 爬取东方财富网每天股票交易数据
    
