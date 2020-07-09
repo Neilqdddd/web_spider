@@ -59,7 +59,7 @@ def down_img(url, path):
         else:
             print('file exist')
     except:
-        pass
+        print('load failed')
 
 
 def main():
